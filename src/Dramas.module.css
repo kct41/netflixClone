@@ -1,0 +1,12 @@
+/** @format */
+
+.container {
+  margin-top: -40px;
+  padding: 10px 0 10px 55px;
+  margin-bottom: 65px;
+}
+.title {
+  font-size: 1.4em;
+  color: white;
+  padding: 15px 0;
+}

@@ -1,0 +1,35 @@
+/** @format */
+
+.owl-nav {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+}
+.owl-nav button span {
+  display: block;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 50px;
+  height: 100px;
+}
+.owl-nav button {
+  position: absolute;
+  top: 50%;
+}
+
+.owl-prev {
+  position: absolute;
+  left: 0;
+  transform: translate(0, -50%);
+}
+.owl-next {
+  right: 0;
+  transform: translate(0, -50%);
+}
+button span {
+  color: blue;
+}
+
+.owl-dots {
+  display: none;
+}

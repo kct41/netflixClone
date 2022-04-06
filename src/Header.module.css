@@ -1,0 +1,42 @@
+/** @format */
+.nav {
+  width: 100%;
+  padding: 0 55px;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  z-index: 99;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 1) 20%,
+    rgba(0, 0, 0, 0.8) 50%,
+    rgba(0, 0, 0, 0.5) 70%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+.container {
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  padding-right: 40px;
+  color: red;
+}
+.main_menu {
+  display: flex;
+}
+.main_menu li {
+  margin-right: 15px;
+  font-size: 14px;
+  color: white;
+}
+.icons {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.icons li {
+  font-size: 23px;
+  margin-left: 18px;
+}
