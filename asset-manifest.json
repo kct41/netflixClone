@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netflixClone/static/css/main.f1c83b54.css",
+    "main.js": "/netflixClone/static/js/main.3433dbfd.js",
+    "static/media/mountain-dark-nature.jpg": "/netflixClone/static/media/mountain-dark-nature.7b7cd3cfd6250bed41ef.jpg",
+    "static/media/logo.png": "/netflixClone/static/media/logo.fd55aabc807ba435d812.png",
+    "index.html": "/netflixClone/index.html",
+    "main.f1c83b54.css.map": "/netflixClone/static/css/main.f1c83b54.css.map",
+    "main.3433dbfd.js.map": "/netflixClone/static/js/main.3433dbfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c83b54.css",
+    "static/js/main.3433dbfd.js"
+  ]
+}
