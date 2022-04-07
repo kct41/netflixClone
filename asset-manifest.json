@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/netflixClone/static/css/main.df26e4d5.css",
-    "main.js": "/netflixClone/static/js/main.e58f9945.js",
+    "main.js": "/netflixClone/static/js/main.75b2d830.js",
     "static/media/mountain-dark-nature.jpg": "/netflixClone/static/media/mountain-dark-nature.7b7cd3cfd6250bed41ef.jpg",
     "static/media/netflix-logo-0.png": "/netflixClone/static/media/netflix-logo-0.b39480d09d45609d9d6f.png",
     "static/media/logo.png": "/netflixClone/static/media/logo.fd55aabc807ba435d812.png",
     "index.html": "/netflixClone/index.html",
     "main.df26e4d5.css.map": "/netflixClone/static/css/main.df26e4d5.css.map",
-    "main.e58f9945.js.map": "/netflixClone/static/js/main.e58f9945.js.map"
+    "main.75b2d830.js.map": "/netflixClone/static/js/main.75b2d830.js.map"
   },
   "entrypoints": [
     "static/css/main.df26e4d5.css",
-    "static/js/main.e58f9945.js"
+    "static/js/main.75b2d830.js"
   ]
 }
